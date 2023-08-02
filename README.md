@@ -4,7 +4,6 @@
 </p>
 
 Welcome to the Open AI's ChatGPT-Powered Generative AI repository! This repository contains a collection of projects that leverages the capabilities of ChatGPT, an advanced language model developed by OpenAI, to build powerful applications for automation and natural language processing.
-ChatGPT
 
 ## About ChatGPT <br/>
 ChatGPT is an impressive language model based on the GPT-3.5 architecture by OpenAI. Trained on a massive dataset, it excels at generating human-like text in response to provided prompts. Its versatility spans from answering questions to crafting creative stories, and it can execute tasks based on natural language instructions. However, the potential of this model extends even further. In this repository, we will explore its applications in crucial business domains, such as building an HR Management system and automating various business processes, among many others.
