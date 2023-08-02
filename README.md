@@ -1,6 +1,7 @@
 # Generative AI for Business Applications
 
-https://iconscout.com/lottie/chatgpt-8622238
+![openai](https://github.com/Moh-Nafi/Generative_AI/assets/133475571/094f4819-510b-4b50-8e63-9aaf8a30ae18)<br/>
+
 Welcome to the ChatGPT-Powered Automation Applications repository! This repository contains a collection of projects that leverage the capabilities of ChatGPT, an advanced language model developed by OpenAI, to build powerful applications for automation and natural language processing.
 
 ### Project Structure
