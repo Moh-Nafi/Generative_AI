@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Moh-Nafi/Moh-Nafi/blob/main/assets/chatbot-unscreen.gif" alt="Image" width="300" height="150">>
+  <img src="https://github.com/Moh-Nafi/Moh-Nafi/blob/main/assets/chatbot-unscreen.gif" alt="Image" width="150" height="75">>
 </p>
 
 
