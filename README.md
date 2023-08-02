@@ -1,5 +1,7 @@
-# Generative_AI
-Applications built utilizing the capabilities of generative AI
+# Generative AI for Business Applications
+
+https://iconscout.com/lottie/chatgpt-8622238
+Welcome to the ChatGPT-Powered Automation Applications repository! This repository contains a collection of projects that leverage the capabilities of ChatGPT, an advanced language model developed by OpenAI, to build powerful applications for automation and natural language processing.
 
 ### Project Structure
 Each project in this repository will have its own dedicated folder containing the necessary code, data, and documentation. The project folders will be organized in a logical and structured manner, making it easy for you to navigate and explore each project individually.
