@@ -1,6 +1,6 @@
 # Generative AI for Business Applications
 <p align="center">
-  <img src="https://github.com/Moh-Nafi/Moh-Nafi/blob/main/assets/tech%20gif.gif" alt="Image" width="600" height="300">
+  <img src="https://github.com/Moh-Nafi/Moh-Nafi/blob/main/assets/openai.gif" alt="Image" width="600" height="300">
 </p>
 
 Welcome to the ChatGPT-Powered Automation Applications repository! This repository contains a collection of projects that leverage the capabilities of ChatGPT, an advanced language model developed by OpenAI, to build powerful applications for automation and natural language processing.
