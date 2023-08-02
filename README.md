@@ -21,13 +21,13 @@ git clone *`https://github.com/yourusername/Generative_AI.git`* <br/>Replace you
 
 Once you have cloned the repository, you can explore each project folder to find the Python scripts, data, and any additional instructions on how to run the projects.
 
-Contributing <br/>
+## Contributing <br/>
 I welcome contributions to this repository! If you have an interesting Machine Learning, Neural Networks, or NLP project that you would like to share, feel free to submit a pull request. Please make sure to follow the guidelines for contributions outlined in the CONTRIBUTING.md file.
 
-License <br/>
+## License <br/>
 This repository is open-source and available under the MIT License. Feel free to use the code and resources provided here for educational and personal projects.
 
-Feedback <br/>
+## Feedback <br/>
 If you have any questions, suggestions, or feedback about any of the projects or this repository, please don't hesitate to open an issue or reach out to me. Your feedback is valuable for me and will help me to improve the quality of the projects and the repository.
 
 
