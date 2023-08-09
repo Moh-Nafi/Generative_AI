@@ -1,4 +1,5 @@
 # Generative AI for Software Quality Assurance
+![image](https://github.com/Moh-Nafi/Generative_AI/assets/133475571/6e2ace4b-cccc-464a-9d7d-ae033843c5ad)<br/>
 
 
 In today's fast-paced digital landscape, where software development cycles are becoming increasingly shorter and customer expectations continue to soar, the importance of efficient and effective Quality Assurance (QA) processes cannot be overstated.
